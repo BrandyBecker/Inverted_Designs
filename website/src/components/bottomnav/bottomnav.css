@@ -1,0 +1,16 @@
+
+.iconholder > .icon{
+    color: grey;
+    text-decoration: none;
+    opacity: 0.75;
+}
+.icon:hover{
+    color: black;
+    font-family: 'Dancing Script', cursive;
+}
+.iconholder{
+    font-size: 1.5rem;
+    background-color: lightgrey;
+    padding: 1.10rem;
+    align-items: center;
+}
