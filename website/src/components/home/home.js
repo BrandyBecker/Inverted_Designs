@@ -5,7 +5,7 @@ function Home() {
   return (
     <div className="Home">
       <div class="header">
-        <img class="photo" src={photo} alt="photo"/>
+        <img class="photo" src={photo} alt="creator"/>
         <div class="text">
           <h3 class="title anim"> Hi, I'm Taylor! </h3>
           <a >
