@@ -1,0 +1,37 @@
+.title{
+    font-family: 'Dancing Script', cursive;
+    font-size: 2rem;
+}
+.title-inv{
+    -moz-transform: scale(1, -1);
+    -webkit-transform: scale(1, -1);
+    -o-transform: scale(1, -1);
+    -ms-transform: scale(1, -1);
+    transform: scale(1, -1);
+    font-family: 'Dancing Script', cursive;
+    font-size: 2rem;
+    opacity: 0.4;
+}
+.links{
+    font-size: 1.25rem;
+    background-color: rgb(228, 228, 228);
+    height: 2rem;
+    align-items: center;
+}
+.links > .link{
+    color: grey;
+    text-decoration: none;
+    margin: 1rem;
+    opacity: 0.75;
+}
+.link:hover{
+    color: black;
+    font-family: 'Dancing Script', cursive;
+    font-size: 1.5rem;
+}
+h3{
+    margin: 0;
+}
+.logo{
+    margin: 1rem;
+}
